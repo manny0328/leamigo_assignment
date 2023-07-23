@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Airline 1",
+      "type": "Economy",
+      "capacity": "300 seats"
+    },
+    {
+      "id": 2,
+      "name": "Airline 2",
+      "type": "Business",
+      "capacity": "50 seats"
+    },
+    {
+      "id": 3,
+      "name": "Airline 3",
+      "type": "First Class",
+      "capacity": "20 seats"
+    },
+    {
+      "id": 4,
+      "name": "Airline 4",
+      "type": "Economy",
+      "capacity": "250 seats"
+    },
+    {
+      "id": 5,
+      "name": "Airline 5",
+      "type": "Premium Economy",
+      "capacity": "100 seats"
+    }
+  ]
+  
